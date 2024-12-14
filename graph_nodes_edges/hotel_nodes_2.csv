@@ -1,0 +1,593 @@
+id,name,rating,hotel_id
+1970324837383878,Melas Lara Hotel,9.2,241
+1970324837383879,IC Hotels Green Palace,9.2,1525
+1970324837383880,Barut Lara Collection,9.6,164
+1970324837383881,IC Hotels Residence,9.4,2648
+1970324837383882,IC Hotels Airport,8.8,2108
+1970324837383883,Grand Park Lara,9,4752
+1970324837383884,Bayou Villas Lara Antalya,10,2109502
+1970324837383885,Litore Resort Hotel & Spa,9.2,365
+1970324837383886,Senza Garden Holiday Club,7.4,764
+1970324837383887,Azura Deluxe Resort & Spa Hotel,8.8,6020
+1970324837383888,Atlas Beach Hotel & Spa (Nonalcohol),8.2,3640
+1970324837383889,Aska Bayview Resort,8.6,2632
+1970324837383890,Alan Xafira Deluxe Resort & Spa,7.2,5630
+1970324837383891,Granada Luxury Red (Adult Only +16),8,2109565
+1970324837383892,Mukarnas Spa  & Resort Hotel,9.2,2159
+1970324837383893,Modern Saraylar Hotel (Nonalcohol),8.4,8448
+1970324837383894,Senza The Inn Resort & Spa,7.6,4777
+1970324837383895,Senza Grand Santana Hotel,8,1311
+1970324837383896,Incekum West Hotel,8.4,917
+1970324837384234,Ria Suites Hotel,,2109486
+1970324837383860,The Green Park Ankara,8.2,6555
+1970324837383861,Venezia Palace Deluxe Resort Hotel,8.6,1512
+1970324837383862,Aska Lara Resort & Spa,9.2,299
+1970324837383863,Wyndham Garden Lara(Ex. Lara Family Club),9,308
+1970324837383864,Royal Seginus,8.8,411
+1970324837383865,Concorde De Luxe Resort,9.6,141
+1970324837383866,Kremlin Palace,9.4,134
+1970324837383867,Delphin Be Grand Resort,9.2,135
+1970324837383868,Titanic Deluxe Lara,9.4,131
+1970324837383869,Limak Lara De Luxe Resort,9.4,185
+1970324837383870,Miracle Resort Hotel,9,159
+1970324837383871,Delphin Diva,9.4,147
+1970324837383872,Delphin Palace Antalya,9.4,165
+1970324837383873,Royal Wings Hotel,9,167
+1970324837383874,Royal Holiday Palace,9,263
+1970324837383875,Delphin Imperial,9.2,287
+1970324837383876,Titanic Mardan Palace,9.6,229
+1970324837383877,Baia Lara Hotel,9,237
+1970324837383897,Haydarpasha Palace,,382
+1970324837383898,White City Resort Hotel,,314
+1970324837383899,Aydinbey Gold Dreams,,151
+1970324837383900,Long Beach,,188
+1970324837383901,Stella Beach Hotel,,2109465
+1970324837383902,Meryan Hotel,,78
+1970324837383903,Botanik Platinum Hotel,,329
+1970324837383904,Delphin Deluxe,,96
+1970324837383905,Botanik Hotel Resort,,36
+1970324837383906,Galeri Resort Hotel,,37
+1970324837383907,Granada Luxury Okurcalar,,38
+1970324837383908,Orange County Alanya - Family Concept,,239
+1970324837383909,Sealife Buket Beach Hotel,,50
+1970324837383910,Aska Just In Beach,,39
+1970324837383911,Granada Luxury Beach,,459
+1970324837383912,Algora Halal Hotel & Spa (Nonalcohol),,479
+1970324837383913,Bera Alanya (Nonalcohol),,2474
+1970324837383914,Saphir Hotel,,40
+1970324837383915,Hotel Titan Select,,242
+1970324837383916,Saphir Resort & Spa,,226
+1970324837383917,White City Beach Hotel (Adult Only +16),,152
+1970324837383918,Club Hotel Titan,,41
+1970324837383919,Alp Pasa Hotel,,89
+1970324837383920,The Norm Oriental (Ex. Asteria Kemer Resort),,94
+1970324837383921,Kilikya Resort Camyuva,,51
+1970324837383922,Gural Premier Tekirova,,270
+1970324837383923,Maxx Royal Kemer Resort,,55
+1970324837383924,Dobedan World Palace (Ex. Alva Donna World Palace),,74
+1970324837383925,Limak Limra Hotel,,79
+1970324837383926,Akra Kemer,,137
+1970324837383927,Sealife Kemer Resort Hotel,,161
+1970324837383928,Orange County Kemer ,,179
+1970324837383929,DoubleTree by Hilton Antalya Kemer,,1944
+1970324837383930,Corendon Playa Kemer,,1606
+1970324837383931,Aydinbey Siu Collection,,2109430
+1970324837383932,Akka Antedon,,1971
+1970324837383933,Akka Alinda,,880
+1970324837383934,Juju Premier Palace (Ex.Amara Premier Palace),,4921
+1970324837383935,Karmir Resort & Spa,,344
+1970324837383936,NG Phaselis Bay,,52
+1970324837383937,Ulusoy Kemer Holiday Club,,53
+1970324837383938,Baia Salima Kemer,,59
+1970324837383939,Mirage Park Resort,,57
+1970324837383940,Kilikya Palace Goynuk,,103
+1970324837383941,Seven Seas Hotel Life,,104
+1970324837383942,Royal Taj Mahal,,364
+1970324837383943,Barut B Suites,,323
+1970324837383944,Sidekum Hotel,,129
+1970324837383945,Villa Side Hotel,,73
+1970324837383946,Villa Side Residence,,266
+1970324837383947,Seamelia Beach Resort Hotel & Spa,,269
+1970324837383948,Royal Dragon Hotel,,217
+1970324837383949,Ali Bey Resort Sorgun,,2939
+1970324837383950,Ali Bey Park Manavgat,,3774
+1970324837383951,Ali Bey Club Manavgat,,3775
+1970324837383952,Calido Maris Hotel,,6876
+1970324837383953,Megasaray Resort Side,,2109457
+1970324837383954,Selectum Family Comfort Side,,2109489
+1970324837383955,Alexia Resort & SPA,,17214
+1970324837383956,Ozlem Garden Hotel,,127
+1970324837383957,Melas Holiday Village,,106
+1970324837383958,Barut Arum Collection,,60
+1970324837383959,Barut Acanthus & Cennet Collection,,61
+1970324837383960,Melas Resort Hotel,,66
+1970324837383961,Barut Hemera,,63
+1970324837383962,Sunmelia Beach Resort Hotel & Spa,,363
+1970324837383963,Sunrise Resort Hotel,,1351
+1970324837383964,Starlight Resort Hotel,,2747
+1970324837383965,Selge Beach Resort & Spa (Nonalcohol),,177
+1970324837383966,Club Turan Prince,,71
+1970324837383967,Club Nena,,67
+1970324837383968,Selectum Family Resort Side,,130
+1970324837383969,Bosphorus Sorgun Hotel,,420
+1970324837383970,Barut Goia (Ex.Barut Sunwing Side Beach),,295
+1970324837383971,Linda Resort Hotel,,65
+1970324837383972,Voyage Sorgun,,72
+1970324837383973,Marvida Family Eco (Ex.Otium Family Eco  Club),,69
+1970324837383974,Cenger Beach Resort & Spa,,280
+1970324837383975,Dobedan Beach Resort Comfort Side (Ex. Brand Alva Donna Beach Resort Comfort Side),,155
+1970324837383976,Royal Alhambra Palace,,286
+1970324837383977,Aishen K Club Kamelya Collection,,70
+1970324837383978,Amelia Beach Resort Hotel & Spa,,216
+1970324837383979,Liu Resort,,18540
+1970324837383980,Sentido Kamelya Selin Hotel,,961
+1970324837383981,Lago Hotel,,2026
+1970324837383982,Miramare Beach Hotel,,944
+1970324837383983,Selectum For Two Side (Adult Only +16),,3666
+1970324837383984,Sunrise Queen Luxury Resort & Spa,,963
+1970324837383985,Akra Antalya ,,42
+1970324837383986,Sealife Family Resort Hotel,,43
+1970324837383987,Porto Bello Hotel Resort & Spa,,126
+1970324837383988,Antalya Adonis Hotel,,87
+1970324837383989,Ramada Plaza Antalya,,254
+1970324837383990,Akra V Hotel,,244
+1970324837383991,The Marmara Antalya,,182
+1970324837383992,Falcon Hotel,,192
+1970324837383993,Holiday Inn Antalya,,417
+1970324837383994,Megasaray West Beach Antalya,,2109421
+1970324837383995,Antalya Nun Hotel,,9496
+1970324837383996,Belconti Resort,,840
+1970324837383997,Gural Premier Belek,,77
+1970324837383998,Ethno Belek,,2109556
+1970324837383999,Cornelia Diamond Golf Resort & Spa,,2434
+1970324837384000,Cornelia De Luxe Resort,,1464
+1970324837384001,Pine Beach Belek,,1292
+1970324837384002,IC Hotels Santai Family Resort,,837
+1970324837384003,Sensitive Premium Resort & Spa,,9087
+1970324837384004,Kirman Belazur Resort & Spa Hotel,,3972
+1970324837384005,Orange County Belek - Family Concept,,460
+1970324837384006,Dobedan Exclusive Hotel & Spa (Ex. Brand Alva Donna Exclusive Hotel&Spa),,186
+1970324837384007,Aydinbey Famous Resort,,169
+1970324837384008,Megasaray Club Belek,,846
+1970324837384009,Titanic Deluxe Golf Belek,,313
+1970324837384010,The Land Of Legends Kingdom,,405
+1970324837384011,Adora Resort Hotel,,45
+1970324837384012,Papillon Belvil Hotel,,47
+1970324837384013,Sirene Belek Hotel,,132
+1970324837384014,Kempinski Hotel The Dome Belek,,166
+1970324837384015,Calista  Luxury  Resort Hotel,,199
+1970324837384016,Amon Hotels Belek (Adult Only +16),,223
+1970324837384017,Cullinan Belek,,2109412
+1970324837384018,Selectum Luxury Resort Belek,,249
+1970324837384019,Maxx Royal Belek Golf Resort,,271
+1970324837384020,Ela Excellence Resort Belek,,200
+1970324837384021,Adam & Eve,,201
+1970324837384022,Susesi Luxury Resort,,202
+1970324837384023,Spice Hotel & Spa,,198
+1970324837384024,Voyage Belek Golf & Spa,,196
+1970324837384025,Papillon Zeugma Relaxury,,128
+1970324837384026,Papillon Ayscha Hotel Resort & SPA,,122
+1970324837384027,Limak Atlantis Hotel,,123
+1970324837384028,Bellis Deluxe Hotel,,48
+1970324837384029,Xanadu Resort Hotel,,49
+1970324837384030,Limak Arcadia Sport Resort ,,46
+1970324837384031,Selectum Family Resort Belek,,64
+1970324837384032,Granada Luxury Belek,,414
+1970324837384033,Gloria Golf Resort,,843
+1970324837384034,Gloria Verde Resort,,1161
+1970324837384035,Gloria Serenity Resort,,2152
+1970324837384036,Asteria Zeus Didim,,6550
+1970324837384037,Esra Family Suites,,157
+1970324837384038,Garden Of Sun Hotel,,191
+1970324837384039,Tuntas Beach Hotel Altinkum,,117
+1970324837384040,Maxeria Blue Didyma Hotel,,477
+1970324837384041,Long Beach Club Nature,,174
+1970324837384042,Duja Didim,,2109458
+1970324837384043,Anda Barut Collection ,,2109529
+1970324837384044,Batihan Vadi Hotel,,2109453
+1970324837384045,Liberty Golf & Resort Kusadasi,,6221
+1970324837384046,Eliada Hotel,,302
+1970324837384047,Akbulut Hotel & Spa,,257
+1970324837384048,Faustina Hotel & Spa,,12
+1970324837384049,By Karaaslan Inn Hotel,,13
+1970324837384050,DoubleTree by Hilton Kusadasi,,301
+1970324837384051,Ramada Resort By Wyndham Kusadasi & Golf,,357
+1970324837384052,Ramada Hotel & Suites by Wyndham Kusadasi,,395
+1970324837384053,Korumar Hotel De Luxe,,421
+1970324837384054,Kustur Club Holiday Village,,15
+1970324837384055,Pine Bay Holiday Resort,,17
+1970324837384056,Tusan Beach Resort,,19
+1970324837384057,Derici Hotel,,97
+1970324837384058,Palm Wings Ephesus Hotel,,76
+1970324837384059,Aqua Fantasy Aquapark Hotel & Spa,,178
+1970324837384060,Charisma De Luxe Hotel,,194
+1970324837384061,Atlantique Holiday Club,,9
+1970324837384062,Marti Beach Hotel,,303
+1970324837384063,Ponz Hotel Kusadasi,,1705
+1970324837384064,Asena Hotel,,985
+1970324837384065,The Grand Blue Sky Hotel,,10
+1970324837384066,Infinity By Yelken Aquapark & Resort,,14
+1970324837384067,Le Bleu Hotel & Resort,,184
+1970324837384068,Palmin Hotel,,253
+1970324837384069,Ephesia Resort Hotel,,11
+1970324837384070,Ephesia Holiday Beach Club,,140
+1970324837384071,Unique Life Style Hotel,,486
+1970324837384072,Batihan Beach Resort & Spa,,602
+1970324837384073,Arora Hotel,,2137
+1970324837384074,Signature Blue Resort,,409
+1970324837384075,Omer Prime Holiday Resort,,16
+1970324837384076,Olivera Resort Hotel,,107
+1970324837384077,Grand Hotel Temizel,,2
+1970324837384078,Palm Court Suites Ayvalik,,1278
+1970324837384079,Ayvalik Cinar Hotel,,348
+1970324837384080,Billurcu Hotel,,1
+1970324837384081,Bartin Test Hotel,,2109501
+1970324837384082,"Swissotel Uludag, Bursa",,2109598
+1970324837384083,Questa Thermal & SPA Hotel Eskisehir,,2109515
+1970324837384084,Trademark Collection by Wyndham Operla Airport Hotels,,2109542
+1970324837384085,Ramada Encore By Wyndham Istanbul Airport,,2109595
+1970324837384086,"Park Inn by Radisson Istanbul Airport, Odayeri",,439
+1970324837384087,Radisson Blu Hotel Istanbul Asia,,296
+1970324837384088,Dedeman Bostanci,,362
+1970324837384089,The Green Park Bostancı,,234
+1970324837384090,Park Dedeman Bostanci Hotel,,5724
+1970324837384091,Sheraton Grand Istanbul Atasehir,,9276
+1970324837384092,Selectum City Ataşehir,,2109520
+1970324837384093,DoubleTree by Hilton Istanbul Avcilar,,307
+1970324837384094,Retaj Royale Hotel,,328
+1970324837384095,Wyndham Grand Istanbul Europe,,339
+1970324837384096,Clarion Hotel Istanbul Mahmutbey,,410
+1970324837384097,Wanda Vista Istanbul,,2109586
+1970324837384098,G Tower Furnished Apartment Rentals,,2109587
+1970324837384099,The Superior Living Batisehir,,10419
+1970324837384100,WestSide Residences by Rotana,,445
+1970324837384101,Centro WestSide Istanbul,,444
+1970324837384102,Mercure Istanbul West Hotel & Convention Center,,381
+1970324837384103,Pullman Istanbul Hotel & Convention Center,,385
+1970324837384104,Renaissance Polat Istanbul Hotel,,162
+1970324837384105,Mercure Istanbul Bakirkoy,,304
+1970324837384106,Hilton Istanbul Bakirkoy,,437
+1970324837384107,Ramada Plaza by Wyndham Istanbul Atakoy,,4969
+1970324837384108,"Crowne Plaza Istanbul Florya, Bir IHG Oteli",,8879
+1970324837384109,Hampton By Hilton Istanbul Atakoy,,9136
+1970324837384110,Titanic Port Bakirkoy,,251
+1970324837384111,Hilton Mall of Istanbul,,482
+1970324837384112,DoubleTree by Hilton Istanbul Topkapi,,430
+1970324837384113,Windsor Hotel & Convention Center Istanbul ,,3878
+1970324837384114,Surmeli Istanbul Hotel,,716
+1970324837384115,The Stay Bosphorus,,305
+1970324837384116,Conrad Istanbul Bosphorus,,27
+1970324837384117,"Radisson Blu Bosphorus Hotel, Istanbul",,190
+1970324837384118,Renaissance Istanbul Polat Bosphorus Hotel,,311
+1970324837384119,Dedeman Istanbul,,95
+1970324837384120,Swissotel The Bosphorus Istanbul,,33
+1970324837384121,Movenpick Hotel Istanbul Bosphorus,,2495
+1970324837384122,Sofitel Istanbul Taksim,,17218
+1970324837384123,Golden Age Hotel İstanbul,,28
+1970324837384124,Root Karakoy,,18696
+1970324837384125,Ramada by Wyndham İstanbul Pera,,34
+1970324837384126,Richmond Istanbul,,32
+1970324837384127,Triada Hotel Taksim,,3201
+1970324837384128,Palazzo Donizetti Hotel - Special Class,,3448
+1970324837384129,Orka Taksim Suites & Hotel,,2109434
+1970324837384130,Ramada by Wyndham Istanbul Golden Horn,,416
+1970324837384131,Ramada by Wyndham Istanbul Taksim,,139
+1970324837384132,Pera Tulip Hotel,,222
+1970324837384133,Titanic City Taksim,,224
+1970324837384134,Avantgarde Hotel Taksim,,195
+1970324837384135,Taxim Hill Hotel,,227
+1970324837384136,Pera Rose Hotel - Special Class,,203
+1970324837384137,Tulip City Hotel,,260
+1970324837384138,Hotel The Pera Hill,,327
+1970324837384139,Opale Hotel,,468
+1970324837384140,Premist Hotels Taksim - Ozel Sinif,,447
+1970324837384141,"DeCamondo Galata, a Tribute Portfolio Hotel",,476
+1970324837384142,The Soul Istanbul Hotel,,484
+1970324837384143,Radisson Blu Hotel Istanbul Pera,,4775
+1970324837384144,Grand Hotel de Pera,,6556
+1970324837384145,Manesol Boutique Galata,,2109497
+1970324837384146,Dosso Dossi Hotels Golden Horn,,2109440
+1970324837384147,Aspera Hotel Golden Horn,,2109435
+1970324837384148,"Lokalist, İstanbul, Tribute Portfolio Hotel",,354
+1970324837384149,Tonight Hotel Port,,18674
+1970324837384150,The Maestro Hotel,,2109553
+1970324837384151,"Adahan DeCamondo Pera, Autograph Collection",,4638
+1970324837384152,Metropolitan Hotels Taksim,,391
+1970324837384153,Pera Bosphorus Hotel,,2109580
+1970324837384154,CVK Park Bosphorus Hotel Istanbul,,334
+1970324837384155,The Artisan Istanbul MGallery,,353
+1970324837384156,CVK Taksim Hotel Istanbul,,228
+1970324837384157,DoubleTree by Hilton Hotel Istanbul - Piyalepasa,,6897
+1970324837384158,Rixos Pera Istanbul,,298
+1970324837384159,The Marmara Pera,,163
+1970324837384160,"Burdock Hotel Istanbul, Autograph Collection",,2109471
+1970324837384161,The Galata Istanbul Hotel - MGallery,,429
+1970324837384162,Elite World Istanbul Taksim Hotel,,230
+1970324837384163,Dora Pera Hotel,,2109424
+1970324837384164,UK Hotel Istanbul,,2109431
+1970324837384165,Art Suites Istanbul,,4024
+1970324837384166,Walton Gardens Pera,,18761
+1970324837384167,The Westist Hotel & Spa,,14965
+1970324837384168,SuB Karakoy - Special Class,,4154
+1970324837384169,Point Hotel Taksim,,1355
+1970324837384170,Pera Palace Hotel,,1289
+1970324837384171,City Center Hotel Taksim,,3282
+1970324837384172,10 Karakoy Istanbul,,372
+1970324837384173,Novotel Istanbul Bosphorus,,389
+1970324837384174,Nidya Hotel Galataport,,324
+1970324837384175,The Haze Karakoy,,4958
+1970324837384176,Metropolitan Hotels Bosphorus,,448
+1970324837384177,Port Bosphorus Hotel,,446
+1970324837384178,The Marmara Taksim,,116
+1970324837384179,The Green Park Taksim,,99
+1970324837384180,Elite World Comfy Taksim Hotel,,272
+1970324837384181,Ramada Plaza by Wyndham Istanbul Tekstilkent,,326
+1970324837384182,Ibis Istanbul Esenyurt,,5051
+1970324837384183,Grand Beyazit Hotel,,2604
+1970324837384184,Aprilis Gold Hotel,,6954
+1970324837384185,Martinenz Hotel,,258
+1970324837384186,Golden Horn Istanbul Hotel,,288
+1970324837384187,"Royan Hotel Hagia Sophia Istanbul, a member of Radisson Individuals",,2109428
+1970324837384188,Sorriso Hotel,,291
+1970324837384189,Cronton Design Hotel,,2109414
+1970324837384190,Rixos Premium Bodrum,,144
+1970324837384191,Ottoman Hotel Park - Special Class,,256
+1970324837384192,Dundar Hotel & SPA,,220
+1970324837384193,Mirilayon Hotel,,277
+1970324837384194,Raymond Hotel,,283
+1970324837384195,Hotel Levni İstanbul - Özel Sınıf,,279
+1970324837384196,Hotel Olimpiyat,,210
+1970324837384197,Mercure Istanbul Sirkeci,,461
+1970324837384198,Palde Hotel & SPA,,455
+1970324837384199,Miss Istanbul Hotel & SPA,,453
+1970324837384200,Hotel Buyuk Hamit,,370
+1970324837384201,Oran Hotel,,1956
+1970324837384202,Catch Hotel Sultanahmet - Ozel Sinif,,17917
+1970324837384203,Almina Inn Hotel,,17959
+1970324837384204,Danis Hotel Istanbul Old City,,17216
+1970324837384205,Manesol Old City Bosphorus,,6797
+1970324837384206,Lady Diana Hotel,,2131
+1970324837384207,Klas Hotel,,2914
+1970324837384208,Seres Hotel,,1756
+1970324837384209,Dosso Dossi Hotels & Spa Downtown,,368
+1970324837384210,Amiral Palace Hotel Boutique Class,,225
+1970324837384211,The Byzantium Hotel & Suites - Special Class,,233
+1970324837384212,Sultan House,,267
+1970324837384213,Sultanhan Hotel - Special Class,,211
+1970324837384214,Antea Palace Hotel & SPA,,75
+1970324837384215,Sunlight Hotel Istanbul,,115
+1970324837384216,Ottoman Hotel Imperial - Special Class,,31
+1970324837384217,Blue Istanbul Hotel - Ozel Sinif,,290
+1970324837384218,Skalion Hotel & SPA,,345
+1970324837384219,Dosso Dossi Hotels Old City,,349
+1970324837384220,Atlantis Royal Hotel,,471
+1970324837384221,"Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",,457
+1970324837384222,Ramada by Wyndham Istanbul Old City,,215
+1970324837384223,Piya Sport Hotel,,443
+1970324837384224,Yigitalp Hotel,,35
+1970324837384225,Wyndham Istanbul Old City,,255
+1970324837384226,May Hotel Istanbul,,261
+1970324837384227,Grand Ant Hotel,,181
+1970324837384228,Aprilis Deluxe Hotel,,2109437
+1970324837384229,California Hotel,,4056
+1970324837384230,"Orient Occident Hotel Istanbul, Autograph Collection",,2109522
+1970324837384231,Ramada Plaza By Wyndham Istanbul Sultanahmet ,,2109463
+1970324837384232,Biz Cevahir Hotel Sultanahmet,,3591
+1970324837384233,"Orientbank Hotel Istanbul, Autograph Collection",,18224
+1970324837384235,Seven Hills Palace & Spa,,465
+1970324837384236,Vogue Hotel Supreme Istanbul,,281
+1970324837384237,Premist Hotels Sultanahmet,,338
+1970324837384238,Innova Sultanahmet Istanbul,,282
+1970324837384239,Legacy Ottoman Hotel,,208
+1970324837384240,Hotel Sultania,,262
+1970324837384241,The And Hotel Istanbul - Special Class,,236
+1970324837384242,"Crowne Plaza Istanbul - Old City, Bir IHG Oteli",,204
+1970324837384243,Golden Horn Hotel - Special Class,,160
+1970324837384244,Orka Royal Hotel & Spa,,183
+1970324837384245,Best Western Hotel Empire Palace - Ozel Sinif,,158
+1970324837384246,Hotel Golden Crown,,143
+1970324837384247,Orient Express Hotel,,138
+1970324837384248,Graziella Gold Hotel,,475
+1970324837384249,Beyazit Palace Hotel,,474
+1970324837384250,DoubleTree by Hilton Hotel Istanbul - Sirkeci,,111
+1970324837384251,"Holiday Inn İstanbul City, Bir IHG Oteli",,150
+1970324837384252,Hotel Ipek Palas,,180
+1970324837384253,Amber Hotel - Ozel Sinif,,232
+1970324837384254,Almina Hotel - Special Class,,219
+1970324837384255,Hotel Santa Sophia,,193
+1970324837384256,Grand Yavuz Hotel,,29
+1970324837384257,Romance Istanbul Hotel,,112
+1970324837384258,Hotel Yasmak Sultan,,121
+1970324837384259,Hotel Saint Sophia,,114
+1970324837384260,Aprilis Hotel - Özel Sınıf,,4943
+1970324837384261,Radisson Hotel President Old Town Istanbul,,86
+1970324837384262,Radisson Hotel Istanbul Sultanahmet,,1780
+1970324837384263,Deluxe Golden Horn Sultanahmet Hotel,,2230
+1970324837384264,Radisson Residences Avrupa TEM Istanbul,,297
+1970324837384265,Doubletree by Hilton Istanbul Moda,,273
+1970324837384266,Wyndham Grand Istanbul Kalamis Marina Hotel,,322
+1970324837384267,Hilton Istanbul Kozyatagi,,337
+1970324837384268,"Holiday Inn Istanbul - Kadikoy, Bir IHG Oteli",,383
+1970324837384269,A11 Hotel,,436
+1970324837384270,A11 Exclusive Hotel,,490
+1970324837384271,Pasaport Pier Istanbul,,15039
+1970324837384272,Broyt Hotel,,483
+1970324837384273,"Four Points by Sheraton Istanbul, Kagithane",,2109425
+1970324837384274,Movenpick Living Camlivadi,,2109558
+1970324837384275,Ibis Istanbul West,,9147
+1970324837384276,Ramada Encore by Wyndham Istanbul Basin Express,,467
+1970324837384277,Park Inn by Radisson Istanbul Ataturk Airport,,374
+1970324837384278,Elite World Grand Istanbul Basın Ekspres Hotel,,408
+1970324837384279,Elite World Istanbul Florya Hotel,,335
+1970324837384280,Tango Arjaan By Rotana,,380
+1970324837384281,Burgu Arjaan By Rotana,,379
+1970324837384282,Elite World Grand Istanbul Kucukyali Hotel,,451
+1970324837384283,Miracle Istanbul Asia Airport Hotel & Spa,,5032
+1970324837384284,The Green Park Pendik,,275
+1970324837384285,Hilton Istanbul Maslak,,221
+1970324837384286,Movenpick Living Saklivadi,,2109584
+1970324837384287,"Radisson Collection Hotel, Vadistanbul",,462
+1970324837384288,Radisson Residences Vadistanbul,,466
+1970324837384289,Carina Park Suites Nisantasi,,393
+1970324837384290,Walton Sisli Residence,,16968
+1970324837384291,"Crowne Plaza Istanbul - Harbiye, Bir IHG Oteli",,289
+1970324837384292,"Radisson Blu Hotel, Istanbul Sisli",,315
+1970324837384293,Delta Hotels by Marriott Istanbul Levent,,378
+1970324837384294,Avantgarde Hotel Sisli,,481
+1970324837384295,Melas Hotel Istanbul,,485
+1970324837384296,Holiday Inn Istanbul - Sisli,,259
+1970324837384297,Lasagrada Hotel Istanbul,,5712
+1970324837384298,Buke Hotel Sisli,,11657
+1970324837384299,Hotel Bosfora Plus,,2109441
+1970324837384300,The Westin Istanbul Nisantasi,,2109545
+1970324837384301,The Mill Hotel Bomonti,,2109432
+1970324837384302,Princely Suites,,2109541
+1970324837384303,ibis Istanbul Sisli,,2109585
+1970324837384304,Divan Istanbul,,1134
+1970324837384305,Avantgarde Levent Hotel - Boutique Class,,265
+1970324837384306,Hilton Istanbul Bomonti Hotel & Conference Center,,336
+1970324837384307,Mercure Istanbul Bomonti,,369
+1970324837384308,Ramada Plaza by Wyndham Istanbul Sehir Merkezi Yalnizca Yetiskinler,,209
+1970324837384309,The Elysium Taksim Special Class,,3664
+1970324837384310,Titanic Comfort Sisli,,252
+1970324837384311,Fairmont Quasar Istanbul,,423
+1970324837384312,The Marmara Sisli,,173
+1970324837384313,Mare Park Hotel,,11699
+1970324837384314,Arts Hotel Istanbul - Special Class,,7054
+1970324837384315,Febor İstanbul Bomonti Hotel & Spa,,470
+1970324837384316,Jaff Hotels Nisantasi,,2109426
+1970324837384317,FEBOR PARK HOTEL,,4082
+1970324837384318,The Stay Nisantasi,,274
+1970324837384319,Hilton Istanbul Bosphorus,,30
+1970324837384320,Icon Hotel Taksim,,6718
+1970324837384321,Point Hotel Barbaros,,3609
+1970324837384322,Hotel Favori,,394
+1970324837384323,Ibis Istanbul Tuzla Hotel,,10426
+1970324837384324,Doubletree by Hilton İstanbul Umraniye,,10945
+1970324837384325,Park inn By Radisson Istanbul Atasehir,,440
+1970324837384326,Bof Hotels Business,,2109459
+1970324837384327,Bof Hotels Ceo Suites Atasehir,,8821
+1970324837384328,Mercure Istanbul Altunizade,,321
+1970324837384329,Aspera Hotel Altunizade,,3667
+1970324837384330,Uranus İstanbul Topkapı,,6460
+1970324837384331,Novotel Istanbul Zeytinburnu,,2252
+1970324837384332,Ibis Istanbul Zeytinburnu,,2251
+1970324837384333,Ottoperla Hotel,,480
+1970324837384334,Radisson Blu Hotel Istanbul Ottomare,,399
+1970324837384335,Grand Makel Hotel Topkapi,,366
+1970324837384336,Balcova Termal Hotel,,92
+1970324837384337,Ramada Encore by Wyndham Izmir,,340
+1970324837384338,Wyndham Grand İzmir Özdilek Thermal & Spa,,142
+1970324837384339,Kamer Suites & Hotels,,292
+1970324837384340,Z Otel Cesme,,1382
+1970324837384341,Kanuni Kervansaray Historical Hotel,,3584
+1970324837384342,Alacati Cadde 75 Hotel,,312
+1970324837384343,Alacati Sorf Hotel,,398
+1970324837384344,Provence Mansion Alacati,,441
+1970324837384345,Viento Hotel Alacati,,6783
+1970324837384346,Babaylon Hotel,,91
+1970324837384347,"Reges, A Luxury Collection Resort & Spa",,14912
+1970324837384348,Boyalik Beach Hotel & SPA,,325
+1970324837384349,Pirlanta Boutique Hotel,,434
+1970324837384350,Piril Hotel Thermal & Beauty Spa,,110
+1970324837384351,Grand Hotel Ontur Cesme,,124
+1970324837384352,Suess Alacati,,489
+1970324837384353,Biblos Beach Resort Alacati,,14299
+1970324837384354,Peremere Alacati Hotel,,424
+1970324837384355,Altin Yunus Resort & Thermal Hotel,,20
+1970324837384356,Radisson Blu Resort & Spa Cesme,,2751
+1970324837384357,Ilica Hotel Spa & Wellness Thermal Resort,,346
+1970324837384358,DoubleTree By Hilton Izmir Airport,,418
+1970324837384359,Svalinn Hotel Izmir,,397
+1970324837384360,Best Western Premier Karsiyaka,,415
+1970324837384361,Hotel 86 By Katipoglu,,400
+1970324837384362,Zeniva Hotel,,371
+1970324837384363,Swissotel Buyuk Efes Izmir,,213
+1970324837384364,Movenpick Hotel Izmir,,214
+1970324837384365,Ramada Plaza By Wyndham Izmir,,352
+1970324837384366,Life Corner Hotel,,438
+1970324837384367,DoubleTree by Hilton Izmir Alsancak,,316
+1970324837384368,Oglakcioglu Park Boutique Hotel,,245
+1970324837384369,Ontur Hotel Izmir,,212
+1970324837384370,Ismira Hotel,,247
+1970324837384371,Kordon Hotel Pasaport,,250
+1970324837384372,Kordon Hotel Cankaya,,432
+1970324837384373,Grand Corner Boutique Hotel,,350
+1970324837384374,Marla Hotel,,351
+1970324837384375,Notion Kesre Beach Hotel & Spa,,6255
+1970324837384376,Aria Claros Beach & Spa Resort,,240
+1970324837384377,Club Yali Hotels & Resort,,1378
+1970324837384378,Club Cactus Paradise,,1559
+1970324837384379,Grand Efe Hotel,,607
+1970324837384380,Club Resort Atlantis,,90
+1970324837384381,Maya Bistro Beach Hotel,,431
+1970324837384382,Richmond Ephesus Resort,,18
+1970324837384383,Hedef Beyt Hotel Resort & Spa,,442
+1970324837384384,Korumar Ephesus Beach & Spa Resort,,367
+1970324837384385,BN Hotel Termal & Spa,,18764
+1970324837384386,Be Premium Bodrum,,347
+1970324837384387,La Blanche Island Bodrum,,3793
+1970324837384388,DUJA Bodrum,,102
+1970324837384389,Bodrium Hotel & SPA,,206
+1970324837384390,Jasmin Beach Hotel,,278
+1970324837384391,Royal Asarlik Beach Hotel & Spa,,84
+1970324837384392,Selectum Colours Bodrum,,93
+1970324837384393,Parkim Ayaz,,109
+1970324837384394,Jasmin Elite Residence,,426
+1970324837384395,Selectum Luxury Door’A,,541
+1970324837384396,Cactus Fleur Beach Club,,1107
+1970324837384397,Hotel Samara,,546
+1970324837384398,Diamond of Bodrum by Loxia Hotels,,175
+1970324837384399,Cape Bodrum Beach Luxury Resort,,403
+1970324837384400,Mivara Luxury Resort & Spa,,375
+1970324837384401,Baia Bodrum,,149
+1970324837384402,Hillstone Bodrum Hotel & Spa,,3
+1970324837384403,Titanic Luxury Collection Bodrum,,387
+1970324837384404,No:81 Hotel,,205
+1970324837384405,Kuum Hotel & Spa Bodrum,,246
+1970324837384406,Vogue Hotel Supreme Bodrum,,318
+1970324837384407,Moyo Luxury Boutique Hotel & Beach,,268
+1970324837384408,Voyage Torba,,119
+1970324837384409,La Quinta By Wyndham Bodrum,,83
+1970324837384410,Salmakis Resort & Spa,,7
+1970324837384411,Charm Beach Hotel,,356
+1970324837384412,Yelken Mandalinci SPA & Wellness,,6
+1970324837384413,Arin Resort Bodrum,,153
+1970324837384414,Azure By Yelken,,207
+1970324837384415,Sianji Well-Being Resort,,276
+1970324837384416,Golden Age Yalıkavak,,133
+1970324837384417,Sirene Luxury Hotel Bodrum,,376
+1970324837384418,Bodrum Holiday Resort & SPA,,2109537
+1970324837384419,Swissotel Resort Bodrum Beach,,342
+1970324837384420,Root Redrock Yalikavak,,2109460
+1970324837384421,Toka Bodrum Hotel & Beach Club,,377
+1970324837384422,Azka Hotel Bodrum,,500
+1970324837384423,Mirada Exclusive Bodrum,,2109427
+1970324837384424,Club & Hotel Letoonia,,573
+1970324837384425,Alesta Yacht Hotel,,3730
+1970324837384426,Orka Sunlife Resort & Spa,,317
+1970324837384427,Lykia Botanika Beach & Fun Club,,574
+1970324837384428,Liberty Lykia Adults Only +16,,4145
+1970324837384429,Sundia by Liberty Oludeniz,,1406
+1970324837384430,Sundia By Liberty Suncity,,1005
+1970324837384431,Liberty Fabay,,18481
+1970324837384432,Rixos Premium Gocek,,331
+1970324837384433,Club Tuana Fethiye,,8
+1970324837384434,Orka Lotus Beach,,360
+1970324837384435,Elite World Marmaris Hotel,,22
+1970324837384436,Grand Yazici Club Marmaris Palace,,24
+1970324837384437,Marti La Perla,,25
+1970324837384438,Marti Resort Marmaris,,105
+1970324837384439,Mirage World Hotel,,125
+1970324837384440,Turunc Resort Hotel,,26
+1970324837384441,Turunc Premium Hotel,,359
+1970324837384442,Baraka Hisaronu,,355
+1970324837384443,Grand Yazici Club Turban,,187
+1970324837384444,Casa De Maris Spa & Resort Hotel,,3746
+1970324837384445,Emre Hotel,,5933
+1970324837384446,Blue Bay Platinum Hotel,,21
+1970324837384447,Lalila Blue Suites,,23
+1970324837384448,Marti Hemithea Hotel,,319
+1970324837384449,Costa Mare Suites,,309
+1970324837384450,Hilton Dalaman Sarigerme Resort & Spa,,2642
+1970324837384451,XL Hotel Sarigerme,,1990
