@@ -11,13 +11,13 @@ from decimal import Decimal
 
 app = FastAPI(title="Hotel Recommendation API")
 
-# CORS ayarlarını ekle
+# Add CORS settings
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Tüm originlere izin ver
+    allow_origins=["*"],  # Allow all origins
     allow_credentials=True,
-    allow_methods=["*"],  # Tüm HTTP metodlarına izin ver
-    allow_headers=["*"],  # Tüm headerlara izin ver
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],  # Allow all headers
 )
 
 # Load data once at startup
@@ -25,7 +25,7 @@ try:
     # Create an empty graph
     G = nx.Graph()
     
-    # Veri dosyalarının yolunu düzelt
+    # Fix data file paths
     base_path = os.path.dirname(os.path.abspath(__file__))
     data_path = os.path.join(base_path, '..', 'graph_nodes_edges')
     
@@ -76,6 +76,7 @@ class ExperiencePreference(BaseModel):
 class RecommendationRequest(BaseModel):
     experience_preferences: List[ExperiencePreference]
     user_email: str = None
+    location_id: int = None  # Optional location filter
 
 class ExperienceRating(BaseModel):
     rating: float
@@ -100,7 +101,7 @@ class HotelRecommendation(BaseModel):
 @app.get("/")
 async def root():
     return {
-        "message": "Hotel Recommendation API'ye Hoş Geldiniz",
+        "message": "Welcome to Hotel Recommendation API",
         "status": "active",
         "nodes_count": G.number_of_nodes(),
         "edges_count": G.number_of_edges()
@@ -117,7 +118,8 @@ async def recommend_hotels(request: RecommendationRequest):
         recommendations = recommend_hotels_for_experiences(
             G, 
             experience_preferences, 
-            request.user_email
+            request.user_email,
+            request.location_id
         )
         
         if isinstance(recommendations, str):
@@ -131,7 +133,7 @@ async def recommend_hotels(request: RecommendationRequest):
         for hotel in recommendations:
             hotel_node = hotel['node_id']
             
-            # Otelin bağlı olduğu lokasyonu bul
+            # Find the location the hotel is connected to
             location_name = ''
             for neighbor in G.neighbors(hotel_node):
                 if (G.nodes[neighbor].get('type') == 'Location' and 
@@ -142,7 +144,7 @@ async def recommend_hotels(request: RecommendationRequest):
             formatted_recommendations.append(HotelRecommendation(
                 hotel_id=G.nodes[hotel_node].get('hotel_id'),
                 name=hotel['name'],
-                location=location_name,  # Bulunan lokasyon adını kullan
+                location=location_name,  # Use the found location name
                 rating=round(float(hotel['final_score']), 2)
             ))
         
@@ -163,6 +165,19 @@ async def get_experiences():
                 'description': node[1].get('description')
             })
     return experiences
+
+@app.get("/locations/")
+async def get_locations():
+    """List all locations"""
+    locations = []
+    for node in G.nodes(data=True):
+        if node[1].get('type') == 'Location':
+            locations.append({
+                'id': node[1].get('location_id'),
+                'name': node[1].get('name'),
+                'description': node[1].get('description')
+            })
+    return locations
 
 @app.get("/hotels/{hotel_id}")
 async def get_hotel_details(hotel_id: int):
@@ -274,11 +289,12 @@ def calculate_collaborative_score(G, hotel_node, user_hotel_ratings, user_liked_
     
     return weighted_score / total_weight if total_weight > 0 else 0
 
-def recommend_hotels_for_experiences(G, experience_preferences, user_email=None):
+def recommend_hotels_for_experiences(G, experience_preferences, user_email=None, location_id=None):
     """
     experience_preferences: [(experience_id, importance_score), ...]
     importance_score: importance score given by customer to this experience (1-5)
     user_email: User's email for personalization
+    location_id: Filter hotels by specific location
     """
     experience_nodes = []
     for exp_id, _ in experience_preferences:
@@ -291,12 +307,34 @@ def recommend_hotels_for_experiences(G, experience_preferences, user_email=None)
     if not experience_nodes:
         return "Experiences not found"
 
+    # Location node'unu bul
+    location_node = None
+    if location_id:
+        for node in G.nodes():
+            if (G.nodes[node].get('type') == 'Location' and 
+                G.nodes[node].get('location_id') == location_id):
+                location_node = node
+                break
+        if not location_node:
+            return "Location not found"
+
     pagerank_scores = calculate_weighted_pagerank(G)
     user_hotel_ratings, user_liked_experiences = get_user_history(G, user_email) if user_email else (None, None)
     
     hotels_data = []
     for node in G.nodes():
         if G.nodes[node].get('type') == 'Hotel':
+            # Location filtresi uygula
+            if location_node:
+                is_in_location = False
+                for neighbor in G.neighbors(node):
+                    if (neighbor == location_node and 
+                        G[node][neighbor].get('relationship_type') == 'LOCATED_IN'):
+                        is_in_location = True
+                        break
+                if not is_in_location:
+                    continue
+
             if any(G.has_edge(node, exp_node) for exp_node in experience_nodes):
                 collaborative_score = calculate_collaborative_score(G, node, user_hotel_ratings, user_liked_experiences)
                 
